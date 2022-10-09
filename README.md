@@ -31,3 +31,11 @@
 ![ActionCopy2.png](Homework4/Screenshot/ActionCopy2.png "复制功能（目标路径已有同名文件）")  
 删除功能  
 ![ActionDelete.png](Homework4/Screenshot/ActionDelete.png "删除功能")  
+
+## Homework5
+运行截图   
+![Result.png](Homework5/Screenshot/Result.png "运行结果")   
+![Result2.png](Homework5/Screenshot/Result2.png "运行结果2")   
+
+
+
