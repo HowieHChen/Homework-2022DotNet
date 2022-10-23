@@ -39,7 +39,7 @@
 
 ## Homework6  
 添加信息  
-![Addinfo.png](Homework6/Screenshot/Addinfo.png "添加信息")  
+![AddInfo.png](Homework6/Screenshot/AddInfo.png "添加信息")  
 日志  
 ![LogTable.png](Homework6/Screenshot/LogTable.png "日志")  
 学生表 
